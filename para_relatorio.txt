@@ -1,18 +1,18 @@
 
 ; ***********************************************************************************************************
 ; * Definições, teclas e funcionalidades:                                                                 	*
-;																											*
-; Definições:																								*
-;																											*
-; O jogo possui algumas definições que precisam de ser implementadas para que o jogo funcione como			*
-; pretendido, tal como as imagens e sons/músicas que precisam de ser colocadas nos seus devidos sítios		*
-; correspondentes ao código em baixo. Foram utilizadas 2 imagens no Media Center, a primeira imagem ou      *
-; a número 0 (background image number 0) correspondente ao sítio onde o nosso Rover irá se movimentar       *
-; durante o jogo em si tem o nome de imagem como "Background0.jpg", a segunda imagem ou número 1 	        *
-; (background image number 1) correspondente à tecla de main menu tem o nome de imagem como                 *
-; "Background1.jpg". Também foram usados 3 sons/efeitos sonoros, o primeiro som ou número 0 é               *
-; a música usada no main menu (Sound effect number 0) que tem o nome como "Persona 5 - Last Surprise.mp3"   *
-; o segundo som ou número 1 (Sound effect number 1) é a música usada no jogo em si que tem o nome como      *
+;																											
+; Definições:																								
+;																											
+; O jogo possui algumas definições que precisam de ser implementadas para que o jogo funcione como			
+; pretendido, tal como as imagens e sons/músicas que precisam de ser colocadas nos seus devidos sítios		
+; correspondentes ao código em baixo. Foram utilizadas 2 imagens no Media Center, a primeira imagem ou      
+; a número 0 (background image number 0) correspondente ao sítio onde o nosso Rover irá se movimentar       
+; durante o jogo em si tem o nome de imagem como "Background0.jpg", a segunda imagem ou número 1 	        
+; (background image number 1) correspondente à tecla de main menu tem o nome de imagem como                 
+; "Background1.jpg". Também foram usados 3 sons/efeitos sonoros, o primeiro som ou número 0 é               
+; a música usada no main menu (Sound effect number 0) que tem o nome como "Persona 5 - Last Surprise.mp3"   
+; o segundo som ou número 1 (Sound effect number 1) é a música usada no jogo em si que tem o nome como      
 ; "Doom OST (SC55) - At Doom's Gate (Extended).mp3", e o último som é o sound effect correspondente ao   													
 ; movimento da nave (Sound effect number 2) que tem o nome como "Whoosh Sound Effects(1).mp3". 	      													
 ;													      													
@@ -30,20 +30,20 @@
 ;							      													
 ; Funcionalidades:											      													
 ;													      													
-; O jogo apresenta-se com um ecrã inicial de apresentação. Para iniciar o jogo prime-se a tecla “A”       *
-; (que apenas tem esta funcionalidade no menu de início).						     					  *
-;													      												  *
-; A partir deste momento temos o nosso Rover que se movimenta para a esquerda (tecla “0”) e 	      	  *
-; para a direita (tecla “2”), a criação de meteoros, de tamanho máximo, um bom no canto superior 	      *
-; direito (tecla “3”) e mau no canto superior esquerdo (“tecla 7”). Para além disto as teclas “5” e “6”   *
-; que, respetivamente, incrementam e decrementam o display de energia. A ultima tecla com uma	     	  *
-; funcionalidade é a “4” que, durante o jogo, caso o utilizador queira jogar sem música a desativa.       *
-; Por agora esta apenas é reativada se o jogo for reiniciado. Para a entrega intermédia todos os 	      *
-; objetivos do enunciado foram alcançados com o teclado funcional, o Rover a movimentar-se,		      	  *
-; os meteoros de tamamho máximo a aparecerem, pelo menos um som, uma imagem de fundo e a		      	  *
-; alteração do nível de energia. Para além destes objetivos adicionámos um main menu,  		      		  *
-; músicas para o menu inicial e para o jogo em si e a possibilidade de desativar 			              *
-; a musica dentro do jogo em si. 									      								  *
-;													      												  *
+; O jogo apresenta-se com um ecrã inicial de apresentação. Para iniciar o jogo prime-se a tecla “A”       
+; (que apenas tem esta funcionalidade no menu de início).						     					  
+;													      												  
+; A partir deste momento temos o nosso Rover que se movimenta para a esquerda (tecla “0”) e 	      	  
+; para a direita (tecla “2”), a criação de meteoros, de tamanho máximo, um bom no canto superior 	      
+; direito (tecla “3”) e mau no canto superior esquerdo (“tecla 7”). Para além disto as teclas “5” e “6”   
+; que, respetivamente, incrementam e decrementam o display de energia. A ultima tecla com uma	     	  
+; funcionalidade é a “4” que, durante o jogo, caso o utilizador queira jogar sem música a desativa.       
+; Por agora esta apenas é reativada se o jogo for reiniciado. Para a entrega intermédia todos os 	      
+; objetivos do enunciado foram alcançados com o teclado funcional, o Rover a movimentar-se,		      	 
+; os meteoros de tamamho máximo a aparecerem, pelo menos um som, uma imagem de fundo e a		      	  
+; alteração do nível de energia. Para além destes objetivos adicionámos um main menu,  		      		  
+; músicas para o menu inicial e para o jogo em si e a possibilidade de desativar 			              
+; a musica dentro do jogo em si. 									      								  
+;													      												  
 ; *********************************************************************************************************
 
