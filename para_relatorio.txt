@@ -1,6 +1,6 @@
 
 ; ***********************************************************************************************************
-; * Definições, teclas e funcionalidades:                                                                 	*
+; * Definições, teclas e funcionalidades:                                                                 	
 ;																											
 ; Definições:																								
 ;																											
